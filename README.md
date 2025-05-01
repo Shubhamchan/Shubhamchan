@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamchan" alt="shubhamchan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shubhamchan/Portfolio.git](https://github.com/Shubhamchan/Portfolio.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Shubhamchan/Portfolio.git](https://portfolio-shubham2.vercel.app/)
 
 - 📫 How to reach me **shubhamchandra442@gmail.com**
 
